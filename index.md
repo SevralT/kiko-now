@@ -9,4 +9,6 @@ title: Главная
 * [Моя биографическая биография](/about-me)
 * [Мой блог](/blog)
 * [Мои личные проекты](/projects)
+* [Все теги](/tags)
+* [Архив постов](/archive)
 * [Мой GitHub](https://github.com/sevralt) и [GitLab](https://gitlab.com/sevralt)
