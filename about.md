@@ -16,4 +16,4 @@ permalink: /about-me/
 
 [Моя почта](mailto:alex.chycherin51@outlook.com)
 
-[Мой Telegram](t.me/sevralt)
+[Мой Telegram](https://t.me/sevralt)
