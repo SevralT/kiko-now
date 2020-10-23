@@ -5,6 +5,7 @@ tags:
   - Android
   - OnePlus 6T
   - Pixel Experience
+comments: true
 ---
 
 Добро пожаловть на мою 2 запись блога!
